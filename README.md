@@ -20,7 +20,8 @@ It demonstrates data preprocessing, linear regression model training, evaluation
 [ Click here to view notebook](https://nbviewer.org/github/muhammad-hassan013/Individual-Workshop-Data---2410-Students-/blob/main/01_ML_Regression/Individual_Workshop_Data_2410_(Students).ipynb)
 
 ## Key Features
-- Data cleaning and Advanced preprocessing  
+- Data cleaning and Advanced preprocessing
+- Advanced Visulization   
 - Simple & Multiple Linear Regression 
 - Model Evaluation (R², RMSE, Mae etc.)  
 - Visualization of regression results
